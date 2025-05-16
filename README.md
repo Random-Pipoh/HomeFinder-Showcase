@@ -62,6 +62,7 @@ We developed a functional prototype using:
 - Created intuitive layouts with **pill-shaped section headers** for seamless navigation between site selection, sentiment analysis, and data visualization.
 - Developed clear **column descriptions**, **filter options**, and **data tables** to ensure accessibility for non-technical housing staff.
 - Balanced functional complexity with visual simplicity, focusing on user-friendly interaction for city employees.
+- Designed the complete UI/UX for HomeFinder, including layout, styling, interactive components, and user guidance, ensuring a polished and accessible experience throughout the application."
 
 ![UI Preview](/HUD.gif)
 
