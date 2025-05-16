@@ -3,37 +3,36 @@
 <!--  
 ![Project Logo](/HomeFinder.png)  
 -->
-![Demo GIF](/demo.gif)
+![HomeFinder Logo](/HomeFinder_logo.png)
 
 ---
 
 ## Overview
 
-HomeFinder v2 is an AI-powered application designed to assist emergency housing departments in site selection and resident placement for Emergency Interim Housing (EIH).  
-It also serves as an informational hub for displaced individuals seeking EIH sites.  
-The platform addresses gaps in data-driven tools by integrating infrastructure data and community sentiment analysis to support smarter, faster, and more equitable housing decisions.
+**HomeFinder v2** is an AI-powered application developed to support emergency housing departments in the site selection and resident placement process for **Emergency Interim Housing (EIH)**.  
+Beyond assisting city officials, the platform also serves as an informational hub for displaced individuals seeking available EIH sites.  
+By integrating infrastructure data with community sentiment analysis, HomeFinder v2 addresses critical gaps in data-driven decision-making, enabling smarter, faster, and more equitable housing placements.
+
 
 ---
 
-## What is HomeFinder v2?
+## What is HomeFinder?
 
-**HomeFinder v2** is a data-driven platform built to optimize Emergency Interim Housing (EIH) placement.  
+**HomeFinder** HomeFinder is an AI-powered application designed to streamline and support emergency housing departments in site selection and resident placement for Emergency Interim Housing (EIH). It can also serve as an informational hub for displaced individuals seeking EIH locations
+.  
 The application helps:
-- **City housing coordinators** evaluate potential EIH sites using transparent AI recommendations.
-- **Displaced individuals** discover nearby EIH sites through an informational interface.
+- **City housing coordinators** evaluate potential EIH sites using transparent AI recommendations and  streamline the emergency housing process.
+- **Displaced individuals** discover nearby EIH sites through an informational interface and evaluate individuals' wants and needs.
 
 ---
 
-## Why HomeFinder v2?
+## Why HomeFinder?
 
-Local governments face challenges in selecting EIH sites due to:
-- Limited insight into surrounding infrastructure.
-- Difficulty in gauging community sentiment.
-- Risk of inefficient resource allocation and project delays.
+Local governments face challenges in placing individuals in EIH sites due to limited resource allocation and time-consuming processes.
 
 Our solution addresses these pain points by:
-- Providing AI-powered recommendations based on infrastructure and sentiment data.
-- Enabling displaced individuals to access accurate EIH site information.
+- Integrating AI into the decision-making process.
+- Enabling displaced individuals to access clear and  accurate EIH site information.
 - Supporting equitable housing placement with transparent scoring models.
 
 ---
@@ -48,18 +47,39 @@ We developed a prototype using:
 ---
 
 ### Key Features:
-- Transparent scoring model for site evaluation.
-- Real-time community sentiment analysis.
-- User-friendly interface for non-technical staff.
-- Ethical AI practices: privacy, transparency, and bias mitigation.
+- Interactive Map of Candidate Sites.
+- Real-time Site Snalyser.
+- Community Sentiment tab.
+- AI-powered Resident Matching.
 
 ---
 
 ### My Contributions:
-- Prompt Engineering for AI outputs.
-- UX Design for intuitive interfaces.
-- Technical Development (OpenAI API, Streamlit, Pydeck, Pandas).
-- Conducted usability testing and ethical AI design.
+
+- **UX Design for intuitive interfaces**
+  
+- Designed the **user experience (UX)** for the San Jose EIH Site Explorer interface, focusing on clarity and usability.
+- Created an intuitive pill-shaped header for site selection, community sentiment analysis, and data visualization.
+- Developed clear **column descriptions**, **filter options**, and **data table views** to ensure accessibility for non-technical users.
+- Ensured the application maintains a balance of functionality and visual simplicity for housing department staff.
+<!--  
+![Project Logo](/HomeFinder.png)  
+-->
+![UI](/UX.png)
+
+
+---
+
+**USER UI DESIGN**
+  
+- Designed a pop-up style interactive map which provides a picture for EIH site. 
+
+
+<!--  
+![Project Logo](/HomeFinder.png)  
+-->
+![UI](/MAPGIF.gif)
+
 
 ---
 
