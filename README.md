@@ -72,16 +72,20 @@ We developed a prototype using:
 
 **USER UI DESIGN**
   
-- Designed a pop-up style interactive map which provides a picture for EIH site. 
+- Designed a **pop-up style interactive map** that displays site-specific information and images for each EIH location, enhancing user engagement and accessibility.
 
 
-<!--  
-![Project Logo](/HomeFinder.png)  
--->
 ![UI](/MAPGIF.gif)
 
 
+- Created an **intuitive pill-shaped section header*** for site selection, community sentiment analysis, and data visualization.
+
+
+![HD](/HD.png)  
+
 ---
+
+
 
 ## Demo Video
 
