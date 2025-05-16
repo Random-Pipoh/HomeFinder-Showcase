@@ -65,7 +65,7 @@ We developed a prototype using:
 <!--  
 ![Project Logo](/HomeFinder.png)  
 -->
-![UI](/UX.png)
+![UI](/HUD.gif)
 
 
 ---
@@ -76,6 +76,9 @@ We developed a prototype using:
 
 
 ![UI](/MAPGIF.gif)
+
+
+---
 
 
 - Created an **intuitive pill-shaped section header*** for site selection, community sentiment analysis, and data visualization.
