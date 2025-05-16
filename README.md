@@ -9,116 +9,78 @@
 
 ## Overview
 
-**HomeFinder v2** is an AI-powered application developed to support emergency housing departments in the site selection and resident placement process for **Emergency Interim Housing (EIH)**.  
-Beyond assisting city officials, the platform also serves as an informational hub for displaced individuals seeking available EIH sites.  
+**HomeFinder** is an AI-powered application designed to assist emergency housing departments in the site selection and resident placement process for **Emergency Interim Housing (EIH)**.  
+Beyond supporting city officials, the platform also serves as an informational hub for displaced individuals seeking available EIH sites.  
 By integrating infrastructure data with community sentiment analysis, HomeFinder v2 addresses critical gaps in data-driven decision-making, enabling smarter, faster, and more equitable housing placements.
-
 
 ---
 
 ## What is HomeFinder?
 
-**HomeFinder** HomeFinder is an AI-powered application designed to streamline and support emergency housing departments in site selection and resident placement for Emergency Interim Housing (EIH). It can also serve as an informational hub for displaced individuals seeking EIH locations
-.  
+HomeFinder is a data-driven platform designed to streamline the emergency housing process for both city housing coordinators and displaced individuals.  
 The application helps:
-- **City housing coordinators** evaluate potential EIH sites using transparent AI recommendations and  streamline the emergency housing process.
-- **Displaced individuals** discover nearby EIH sites through an informational interface and evaluate individuals' wants and needs.
+- **City housing coordinators** evaluate potential EIH sites using transparent AI recommendations, optimizing site selection and placement efficiency.
+- **Displaced individuals** discover nearby EIH sites and evaluate options that meet their specific needs through an intuitive interface.
 
 ---
 
 ## Why HomeFinder?
 
-Local governments face challenges in placing individuals in EIH sites due to limited resource allocation and time-consuming processes.
+Local governments face significant challenges in placing individuals in EIH sites due to:
+- Limited resource allocation.
+- Time-consuming manual processes.
+- Lack of clear insights into infrastructure readiness and community sentiment.
 
 Our solution addresses these pain points by:
-- Integrating AI into the decision-making process.
-- Enabling displaced individuals to access clear and  accurate EIH site information.
-- Supporting equitable housing placement with transparent scoring models.
+- Integrating AI into the site selection and resident placement process.
+- Providing displaced individuals with clear and accurate EIH site information.
+- Supporting equitable housing placement through a transparent, explainable scoring model.
 
 ---
 
 ## Our Solution
 
-We developed a prototype using:
-- **OpenAI API** for sentiment analysis and recommendations.
-- **Streamlit & Pydeck** for interactive visualizations.
-- **Pandas & Python libraries** for data handling and analysis.
+We developed a functional prototype using:
+- **OpenAI API** for community sentiment analysis and site recommendations.
+- **Streamlit & Pydeck** for building interactive visualizations and map interfaces.
+- **Pandas & Python libraries** for efficient data handling and analysis workflows.
 
 ---
 
-### Key Features:
-- Interactive Map of Candidate Sites.
-- Real-time Site Snalyser.
-- Community Sentiment tab.
-- AI-powered Resident Matching.
+## Key Features
+- Interactive Map of Candidate EIH Sites.
+- Real-time Site Analyzer for infrastructure & sentiment data.
+- Community Sentiment Dashboard.
+- AI-Powered Resident Matching tool for smarter placements.
 
 ---
 
-### My Contributions:
+## My Contributions
 
-- **UX Design for intuitive interfaces**
-  
-- Designed the **user experience (UX)** for the San Jose EIH Site Explorer interface, focusing on clarity and usability.
-- Created an intuitive pill-shaped header for site selection, community sentiment analysis, and data visualization.
-- Developed clear **column descriptions**, **filter options**, and **data table views** to ensure accessibility for non-technical users.
-- Ensured the application maintains a balance of functionality and visual simplicity for housing department staff.
-<!--  
-![Project Logo](/HomeFinder.png)  
--->
-![UI](/HUD.gif)
+### UX Design & Interface Development
+- Designed the **user experience (UX)** for the San Jose EIH Site Explorer interface, ensuring clarity and usability.
+- Created intuitive layouts with **pill-shaped section headers** for seamless navigation between site selection, sentiment analysis, and data visualization.
+- Developed clear **column descriptions**, **filter options**, and **data tables** to ensure accessibility for non-technical housing staff.
+- Balanced functional complexity with visual simplicity, focusing on user-friendly interaction for city employees.
 
-
----
-
-**USER UI DESIGN**
-  
-- Designed a **pop-up style interactive map** that displays site-specific information and images for each EIH location, enhancing user engagement and accessibility.
-
-
-![UI](/MAPGIF.gif)
-
+![UI Preview](/HUD.gif)
 
 ---
 
 
-- Created an **intuitive pill-shaped section header*** for site selection, community sentiment analysis, and data visualization.
+### Interactive Map & Pop-Up Design
+- Designed a **pop-up style interactive map** showcasing site-specific information and images for each EIH location.
+- Enhanced user engagement by integrating location-specific visuals and data overlays for quick analysis.
 
-
-![HD](/HD.gif)  
-
----
-
-
-
-## Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+![Map Pop-Up Demo](/MAPGIF.gif)
 
 ---
 
-## Roadmap
-- [ ] Deploy with live infrastructure data.
-- [ ] Implement real-time public data feeds.
-- [ ] Add feedback loop from city staff.
-- [ ] Mobile version for field use.
+
+### Visual Navigation Enhancements
+- Created **pill-shaped section headers** for clear segmentation of key features (Site Analysis, Community Sentiment, Resident Matching).
+
+![Header Demo](/HD.gif)
 
 ---
-
-## Data Flow
-
-![Data Flow](/dataflow.png)
-
----
-
-## Repository
-
-[GitHub Repository Link Here](https://github.com/YourGitHubRepo)
-
----
-
-## Contact
-
-Paul Adams  
-📧 paulayound@gmail.com  
-🔗 [LinkedIn: linkedin.com/in/paulsmadams](https://linkedin.com/in/paulsmadams)
 
