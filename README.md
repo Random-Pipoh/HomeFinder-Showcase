@@ -81,7 +81,7 @@ We developed a prototype using:
 - Created an **intuitive pill-shaped section header*** for site selection, community sentiment analysis, and data visualization.
 
 
-![HD](/HD.png)  
+![HD](/HD.gif)  
 
 ---
 
